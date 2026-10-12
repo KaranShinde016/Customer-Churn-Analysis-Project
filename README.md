@@ -121,9 +121,9 @@ The raw data is provided as an Excel file (`customer_churn_data_raw.xlsx`) with 
 - Pivot tables for churn by plan type
 
 ### Chart Previews
-![Churn by Plan](images/churn_by_plan.png)
-![Churn by State](images/churn_by_state.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Churn by Plan](https://github.com/KaranShinde016/Customer-Churn-Analysis-Project/blob/main/churn_by_plan.png)
+![Churn by State](https://github.com/KaranShinde016/Customer-Churn-Analysis-Project/blob/main/churn_by_state.png)
+![Correlation Heatmap](https://github.com/KaranShinde016/Customer-Churn-Analysis-Project/blob/main/correlation_heatmap.png)
 
 ---
 
